@@ -6,7 +6,7 @@
  * *
  * *
  * *Return: return 0 everytime
- * */
+ **/
 int main(void)
 {
 
