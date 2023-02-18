@@ -12,7 +12,7 @@ int main(void)
 			{
 					letter = tolower(letter);
 					putchar(letter);
-								}
+			}
 				putchar('\n');
 					return (0);
 }
