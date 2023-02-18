@@ -11,8 +11,8 @@ int main(void)
 {
 		char L;
 
-			for (L = 97; L <= 122; L++)
-				putchar(L);
-				putchar(10);
+		for (L = 97; L <= 122; L++)
+					putchar(L);
+					putchar(10);
 					return (0);
 }
